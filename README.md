@@ -2,6 +2,7 @@ nonebot支持文字转语音的插件，教程可以参考[这里](https://www.b
 
 更新了保存功能，需要自己修改 `models.json`，按照我的格式修改对应上你自己的模型即可。
 Hubert模型[下载链接](https://huggingface.co/spaces/zomehwh/sovits-models/blob/main/hubert/checkpoint_best_legacy_500.pt)
+
 默认模型的设置仍然在_init_.py里面，请自行更换
 ### 重要！！大部分设置不需要再在 `bot.py` 里面改了，直接在 `env.(prod或dev，具体是你自己的配置文件)` 里面写就行了。下文是模板可以直接复制来用：
 
