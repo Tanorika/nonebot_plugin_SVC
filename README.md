@@ -1,4 +1,4 @@
-nonebot支持文字转语音的插件，教程可以参考[这里](https://www.bilibili.com/video/BV1SP41127Ar)。
+nonebot支持文字转语音的插件，教程可以参考[这里](https://www.bilibili.com/video/BV12b421i7kZ/)。
 
 更新了保存功能，需要自己修改 `models.json`，按照我的格式修改对应上你自己的模型即可。
 Hubert模型[下载链接](https://huggingface.co/spaces/zomehwh/sovits-models/blob/main/hubert/checkpoint_best_legacy_500.pt)
