@@ -12,7 +12,6 @@ sys.path.append('nonebot_plugin_SVC')
 from .bot import texttosound
 import os,re
 from nonebot.params import ArgPlainText
-from nonebot.adapters.cqhttp import MessageSegment
 current_path = os.path.dirname(__file__)
 from nonebot.adapters.onebot.v11 import (
     MessageEvent,
